@@ -1,0 +1,44 @@
+Exercício 2: Calculando Idade
+Desenvolva um programa que receba uma data de nascimento e
+calcule a idade da pessoa.
+Mostre o resultado em anos, meses e dias.
+
+Exercício 3: Datas Futuras
+Crie um programa que defina a data de hoje, adicione 15
+dias a ela e mostre o resultado formatado como
+"dd/MM/yyyy".
+
+Exercício 4: Data e Hora Formatadas
+Crie um LocalDateTime para o momento atual.
+Formate e imprima a data e hora no seguinte formato:
+"dd 'de' MMMM 'de' yyyy 'às' HH:mm:ss"
+
+Exercício 5: Enum com Switch-Case e Scanner
+Crie um enum chamado OperacaoMatematica representando
+operações matemáticas básicas (+, -, *, /).
+Utilize um Scanner para obter a operação do usuário e
+realizar o cálculo com dois números.
+
+Exercício 6: Enum com Switch-Case e Scanner
+Crie um enum chamado CategoriaProduto representando
+categorias de produtos (ELETRONICO, VESTUARIO, ALIMENTO).
+Utilize um Scanner para obter a categoria do usuário e
+imprima uma mensagem correspondente.
+
+
+Exercício 7: Enum com Switch-Case e Scanner
+Crie um enum chamado UnidadeTemperatura representando
+unidades de temperatura (CELSIUS, FAHRENHEIT, KELVIN).
+Escreva um programa que utiliza um Scanner para obter a
+unidade de temperatura atual do usuário e a unidade
+desejada, pedindo a temperatura atual e imprimindo a
+temperatura convertida.
+CELSIUS:
+F -> (celsius * 9 / 5) + 32
+K -> celsius + 273.15
+FAHRENHEIT:
+C -> (fehrenheit - 32) * 5 / 9
+k -> (fehrenheit + 459.67) * 5 / 9
+KELVIN:
+C-> kelvin - 273.15
+F-> (kelvin * 9 / 5) - 459.67

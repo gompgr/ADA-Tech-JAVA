@@ -1,0 +1,1 @@
+rootProject.name = "exercicios01122025"
